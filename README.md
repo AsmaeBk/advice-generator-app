@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add your GitHub repository URL here]
-- Live Site URL: [Add your live site URL here (e.g., GitHub Pages or Vercel)]
+- Solution URL: [https://github.com/AsmaeBk/advice-generator-app]
+- Live Site URL: [https://asmaebk.github.io/advice-generator-app/]
 
 ## My process
 
